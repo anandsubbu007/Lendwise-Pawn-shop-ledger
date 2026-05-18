@@ -484,9 +484,6 @@ Desktop View
 - USB microscope — native Android UVC bridge (custom)
 - Native Android camera bridge
 
-**Platforms**
-
-- Android · iOS · Tablet · Windows · macOS · Linux
 
 <img width="460" height="1024" alt="3318fc82-a4c2-4fec-bc91-e3eceac46078" src="https://github.com/user-attachments/assets/b4cac6ff-a4cb-4768-8b0f-5bb7f44f1a24" />
 
