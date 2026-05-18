@@ -23,27 +23,20 @@
 
 ---
 
-## Built By One Engineer
+## Built by a Single Engineer
 
-Over **6 platforms.**
+> One codebase. One architecture. One production-grade delivery.
 
-**100+ screens.**
+| Metric        | Delivery                                                           |
+| ------------- | ------------------------------------------------------------------ |
+| Platforms     | Android · iOS · Tablet · Windows · macOS · Linux                   |
+| Screens       | 100+                                                               |
+| APIs          | 120+                                                               |
+| Integration   | Native Android hardware bridges · USB microscope support           |
+| Deployment    | Oracle Cloud · Firebase auth · Redis cache                         |
+| Product focus | Finance domain · offline branch sync · enterprise ledger integrity |
 
-**120+ APIs.**
-
-Native Android hardware bridges.
-
-Oracle Cloud deployment.
-
-USB microscope integration.
-
-Financial domain engine.
-
-Offline branch sync.
-
-No templates. No boilerplate.
-
-Built end-to-end.
+This was built end-to-end with no templates, no boilerplate, and a strong emphasis on architecture, resilience, and audit safety.
 
 ---
 
@@ -73,13 +66,9 @@ Because money cannot be "eventually consistent."
 | **Version**             | 1.5.0                                            |
 | **Platforms**           | Android · iOS · Tablet · Windows · macOS · Linux |
 | **Production releases** | Multiple                                         |
-| **APK size**            | 70MB+                                            |
+| **APK size**            | 60MB+                                            |
 | **Live usage**          | Active · Real businesses · Real money            |
-| **Active loan volume**  | ₹3 Cr+ tracked (single period)                   |
-| **Live loan tickets**   | 682+                                             |
-| **Pledger profiles**    | 670+                                             |
-| **Investors**           | 15+                                              |
-| **Cash-in-hand (live)** | ₹15 Lakh+                                        |
+| **Active Users**        | 50+                                              |
 
 ---
 
