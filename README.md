@@ -1,8 +1,7 @@
 <div align="center">
 
-<!-- COVER IMAGE — Replace with your bento-style screenshot: 1280×640px, Android + Desktop + Tablet -->
-
-![LendWise Cover](./assets/cover.png)
+<!-- COVER IMAGE — 1280×640px -->
+![LendWise Cover](https://github.com/user-attachments/assets/7ba6bd54-5025-4adc-bd8a-df7e6e29ea3d)
 
 <br>
 
@@ -441,16 +440,20 @@ Migrate years of paper records in bulk.
 
 ## Screenshots
 
-<!-- Replace with your actual screenshots -->
-<!-- Folder: ./assets/screenshots/ -->
+Mobile UI:
+<img width="2912" height="1440" alt="Gemini_Generated_Image_zd8vouzd8vouzd8v" src="https://github.com/user-attachments/assets/55093d00-f07e-4642-a7ad-448641148199" />
 
-|                    Dashboard                     |                   Loan Ticket                   |                  Loan List                  |
-| :----------------------------------------------: | :---------------------------------------------: | :-----------------------------------------: |
+
+Desktop View
+
+| Dashboard | Loan Ticket | Loan List |
+|:---------:|:-----------:|:---------:|
 | ![Dashboard](./assets/screenshots/dashboard.png) | ![Ticket](./assets/screenshots/loan_ticket.png) | ![List](./assets/screenshots/loan_list.png) |
-
-|             Transaction Report             |                    Settings                    |                 Desktop View                 |
-| :----------------------------------------: | :--------------------------------------------: | :------------------------------------------: |
+ 
+| Transaction Report | Settings | Desktop View |
+|:-----------------:|:--------:|:------------:|
 | ![Report](./assets/screenshots/report.png) | ![Settings](./assets/screenshots/settings.png) | ![Desktop](./assets/screenshots/desktop.png) |
+
 
 ---
 
@@ -484,6 +487,8 @@ Migrate years of paper records in bulk.
 **Platforms**
 
 - Android · iOS · Tablet · Windows · macOS · Linux
+
+<img width="460" height="1024" alt="3318fc82-a4c2-4fec-bc91-e3eceac46078" src="https://github.com/user-attachments/assets/b4cac6ff-a4cb-4768-8b0f-5bb7f44f1a24" />
 
 ---
 
