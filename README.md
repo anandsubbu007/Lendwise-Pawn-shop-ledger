@@ -441,19 +441,10 @@ Migrate years of paper records in bulk.
 ## Screenshots
 
 Mobile UI:
-<img width="2912" height="1440" alt="Gemini_Generated_Image_zd8vouzd8vouzd8v" src="https://github.com/user-attachments/assets/55093d00-f07e-4642-a7ad-448641148199" />
-
+<img width="2912" height="1440" alt="Lendwise - Mobile view" src="https://github.com/user-attachments/assets/55093d00-f07e-4642-a7ad-448641148199" />
 
 Desktop View
-
-| Dashboard | Loan Ticket | Loan List |
-|:---------:|:-----------:|:---------:|
-| ![Dashboard](./assets/screenshots/dashboard.png) | ![Ticket](./assets/screenshots/loan_ticket.png) | ![List](./assets/screenshots/loan_list.png) |
- 
-| Transaction Report | Settings | Desktop View |
-|:-----------------:|:--------:|:------------:|
-| ![Report](./assets/screenshots/report.png) | ![Settings](./assets/screenshots/settings.png) | ![Desktop](./assets/screenshots/desktop.png) |
-
+<img width="2782" height="1536" alt="Lendwise - desktop view" src="https://github.com/user-attachments/assets/27f31a9b-1efa-43b3-b641-9bee834c6ff0" />
 
 ---
 
