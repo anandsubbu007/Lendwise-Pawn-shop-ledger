@@ -5,7 +5,7 @@
 
 <br>
 
-# LendWise
+# LendWise - Pawn shop ledger
 
 ### When rural fintech, field hardware, offline sync, and enterprise architecture collide.
 
